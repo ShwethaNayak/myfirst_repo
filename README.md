@@ -1,1 +1,4 @@
-# myfirst_repo
+hello ,
+This is my first repo readme file.
+
+ok bye
